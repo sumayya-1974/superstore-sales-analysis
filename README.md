@@ -21,3 +21,8 @@ This project analyzes a Superstore sales dataset to draw meaningful business ins
 - Technology category contributes the highest total sales.
 - Standard Class shipping shows longer average delivery time compared to faster ship modes.
 - A small set of products contributes disproportionately to total revenue.
+## Business Conclusions
+This analysis shows that sales are heavily driven by a few high-performing categories and products. 
+Technology products consistently outperform other categories, implying a strong customer preference and higher revenue potential.
+Delivery performance varies significantly by ship mode, which impacts customer experience and operational efficiency. 
+Customer satisfaction can be improved by Optimizing faster shipping methods for high-value products
